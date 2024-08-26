@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Developer
 -----------------------------
 
-* 🌍  I'm based in Montreal
+* 🌍  I'm based in Montreal 
 * ✉️  You can contact me at [gleb.galkin10@gmail.com](mailto:gleb.galkin10@gmail.com)
 
 ### Skills
