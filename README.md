@@ -1,6 +1,3 @@
-![125029154-39b6f400-e057-11eb-9006-8090264abb07](https://github.com/glebgalkin/glebgalkin/assets/60242492/cb93d03a-cc53-4397-b113-1d271cd2c2cd)
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gleb Galkin
 ===================================================================================================================================
 
